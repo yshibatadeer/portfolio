@@ -1,3 +1,3 @@
-# portpholio
+# portfolio
 
 yshibata のポートフォリオ
